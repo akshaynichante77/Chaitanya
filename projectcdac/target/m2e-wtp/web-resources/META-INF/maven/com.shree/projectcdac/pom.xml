@@ -1,0 +1,17 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.shree</groupId>
+  <artifactId>projectcdac</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
+  <name>projectcdac</name>
+  <description>sample</description>
+  <properties>
+  <maven.console.source>1.8</maven.console.source>
+  <maven.console.target>1.8</maven.console.target>
+  
+  
+  </properties>
+  
+  
+</project>
